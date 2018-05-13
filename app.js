@@ -3,7 +3,7 @@
 var SwaggerExpress = require('swagger-express-mw');
 var app = require('express')();
 module.exports = app; // for testing
-var port = process.env.port || 5000,
+var port = process.env.PORT || 5000,
   bodyParser = require('body-parser');
 
 
