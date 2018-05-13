@@ -1,1 +1,1 @@
-# Skeleton project for Swagger
+# A Node.js example to communicate with IBM Watson Assistant
